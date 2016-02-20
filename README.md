@@ -11,5 +11,5 @@ First time using a css pre-processor - stylus. Really easy to use an very light 
 http://lvudesign.com/test-responsive/
 
 This is how the page looks like
-![image](https://raw.githubusercontent.com/LiviuLvu/mobile-responsive-liquid-layout-page/preview.jpg)
+![image](https://raw.githubusercontent.com/LiviuLvu/mobile-responsive-liquid-layout-page/edit/master/preview.jpg)
 
