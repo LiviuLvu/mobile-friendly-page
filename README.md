@@ -2,8 +2,12 @@
 
 Started this project with purpouse of learning the best practices in HTML5 CSS3 front end worflow, building a lightweight mobile friendly and fast loading mockup page.
 
-###Workflow
-Using grunt task manager, stylus css, browser-sync
+###Workflow and tools used
+Sublime text 3, node server on windows for preview  
+grunt task manager, browser-sync  
+stylus css, normalize css  
+flexbox  
+jquery  
 
 First time using a css pre-processor - stylus. Really easy to use an very light on typing.
 
