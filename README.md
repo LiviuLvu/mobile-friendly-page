@@ -1,18 +1,18 @@
-# Study conversion from psd file to responsive page
+## Study conversion from psd file to responsive page  
 
-Started this project with purpouse of learning the best practices in HTML5 CSS3 front end worflow, building a lightweight mobile friendly and fast loading mockup page.
+Started this project with purpouse of learning the best practices in HTML5 CSS3 front end worflow, building a lightweight mobile friendly and fast loading mockup page.  
 
-###Workflow and tools used
+###Workflow and tools used  
 Sublime text 3, node server on windows for preview  
 grunt task manager, browser-sync  
 stylus css, normalize css  
 flexbox  
 jquery  
 
-First time using a css pre-processor - stylus. Really easy to use an very light on typing.
+First time using a css pre-processor - stylus. Really easy to use an very light on typing.  
 
-###Live preview:
-http://lvudesign.com/test-responsive/
+Preview live page:  
+http://lvudesign.com/test-responsive/  
 
-![image](https://raw.githubusercontent.com/LiviuLvu/mobile-responsive-liquid-layout-page/master/preview.jpg)
+![image](https://github.com/LiviuLvu/mobile-friendly-page/blob/gh-pages/preview.jpg)  
 
