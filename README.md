@@ -12,7 +12,7 @@ jquery
 First time using a css pre-processor - stylus. Really easy to use an very light on typing.  
 
 Preview live page:  
-http://lvudesign.com/test-responsive/  
+http://liviulvu.github.io/test-responsive/  
 
 ![image](https://github.com/LiviuLvu/mobile-friendly-page/blob/gh-pages/preview.jpg)  
 
